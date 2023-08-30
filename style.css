@@ -10,3 +10,11 @@ font-size: 16px;
 font-weight: 400;
 line-height: 204.3%; /* 32.688px */
 }
+
+.img-bg{
+  width: 83px;
+  height: 83px;
+  flex-shrink: 0;
+  border-radius: 20px;
+background: #EFEAFF;
+}
