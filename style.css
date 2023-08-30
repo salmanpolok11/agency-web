@@ -1,0 +1,12 @@
+.bannar-containar{
+flex-shrink: 0;
+  background: rgba(16, 144, 203, 0.10);
+}
+
+.text-index{
+  flex-shrink: 0;
+  color: #5C5C5C;
+font-size: 16px;
+font-weight: 400;
+line-height: 204.3%; /* 32.688px */
+}
